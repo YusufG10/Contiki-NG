@@ -3,7 +3,7 @@
 Contiki-NG + Cooja üzerinde, kablosuz (UDP/6LoWPAN/RPL) ortamda bir firmware imajının **parçalanarak**, **sırayla**, **hata denetimiyle** ve **yeniden gönderim** mekanizmasıyla bir düğümden diğerine aktarılması; alıcıda **kalıcı depolamaya (Coffee/CFS)** yazılıp **CRC-32 ile bütünlüğünün** doğrulanması.
 
 ## 🎥 Demo Videosu
-> Buraya YouTube linkini koy: `https://youtu.be/...`
+> https://youtu.be/DfRe7ne70SU
 
 ## Topoloji ve Roller
 
